@@ -1,4 +1,4 @@
-# Ensemble Models For Advanced Regression
+# Generative Adversarial Networks
 
 [![Tensorflow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7b9ZDD7lMdkByT-f_RCAqSQYqnq_CpgD16IFrwfmUwWCmdt7H)](https://www.tensorflow.org/beta/guide/effective_tf2)
 

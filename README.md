@@ -15,7 +15,7 @@ GANs are a clever way of training a generative model by framing the problem as a
 
 GANs are an exciting and rapidly changing field, delivering on the promise of generative models in their ability to generate realistic examples across a range of problem domains, most notably in image-to-image translation tasks such as translating photos of summer to winter or day to night, and in generating photorealistic photos of objects, scenes, and people that even humans cannot tell are fake.
 
-[![GANS Model](https://image.slidesharecdn.com/gans-170201015537/95/a-very-gentle-introduction-to-generative-adversarial-networks-aka-gans-13-638.jpg?cb=1485980114)]()
+[![GANS Model](https://proteus1991.github.io/post/gan/featured.png)]()
 
 
 
